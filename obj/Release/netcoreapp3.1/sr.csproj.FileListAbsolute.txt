@@ -1,0 +1,13 @@
+C:\Users\frede\Ablage\Coding\C#\Sudokku pre\sr\bin\Release\netcoreapp3.1\sr.exe
+C:\Users\frede\Ablage\Coding\C#\Sudokku pre\sr\bin\Release\netcoreapp3.1\sr.deps.json
+C:\Users\frede\Ablage\Coding\C#\Sudokku pre\sr\bin\Release\netcoreapp3.1\sr.runtimeconfig.json
+C:\Users\frede\Ablage\Coding\C#\Sudokku pre\sr\bin\Release\netcoreapp3.1\sr.runtimeconfig.dev.json
+C:\Users\frede\Ablage\Coding\C#\Sudokku pre\sr\bin\Release\netcoreapp3.1\sr.dll
+C:\Users\frede\Ablage\Coding\C#\Sudokku pre\sr\bin\Release\netcoreapp3.1\sr.pdb
+C:\Users\frede\Ablage\Coding\C#\Sudokku pre\sr\obj\Release\netcoreapp3.1\sr.csprojAssemblyReference.cache
+C:\Users\frede\Ablage\Coding\C#\Sudokku pre\sr\obj\Release\netcoreapp3.1\sr.AssemblyInfoInputs.cache
+C:\Users\frede\Ablage\Coding\C#\Sudokku pre\sr\obj\Release\netcoreapp3.1\sr.AssemblyInfo.cs
+C:\Users\frede\Ablage\Coding\C#\Sudokku pre\sr\obj\Release\netcoreapp3.1\sr.csproj.CoreCompileInputs.cache
+C:\Users\frede\Ablage\Coding\C#\Sudokku pre\sr\obj\Release\netcoreapp3.1\sr.dll
+C:\Users\frede\Ablage\Coding\C#\Sudokku pre\sr\obj\Release\netcoreapp3.1\sr.pdb
+C:\Users\frede\Ablage\Coding\C#\Sudokku pre\sr\obj\Release\netcoreapp3.1\sr.genruntimeconfig.cache
